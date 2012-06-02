@@ -3,8 +3,8 @@ Gato
 
 Juego Gato en HTML5
 
-    X |   |   \n
+    X |   |   <br>
    ---+---+---<br>
-      | X |   
-   ---+---+---
-      |   | X 
+      | X |   <br>
+   ---+---+---<br>
+      |   | X <br>
